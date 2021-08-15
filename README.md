@@ -1,6 +1,6 @@
 # Gamedino
 
-###Jogo do Dinossauro
+### Jogo do Dinossauro
 ---
 
 Neste repositório criei a minha versão de um Jogo do Dinossauro!
